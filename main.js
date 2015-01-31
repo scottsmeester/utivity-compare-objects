@@ -11,10 +11,10 @@
 
  var input = [
     { 
-      flavor: "Chocolate",
-      scoops: 7,
-      location: "Little Man",
-      date: Date.parse("2014-11-10"),
+        flavor: "Chocolate",
+        scoops: 7,
+        location: "Little Man",
+        date: Date.parse("2014-11-10"),
     },
     { 
     	flavor: "Chocolate",
